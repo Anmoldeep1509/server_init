@@ -1,2 +1,2 @@
-# server_init
-Initialization script for linux servers
+# server_init_ubuntu
+Initialization script for ubuntu servers
